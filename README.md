@@ -17,7 +17,7 @@ Whether you work in sales or marketing, you run your own company, or you want to
 You can download MySQL community server at  https://dev.mysql.com/downloads/mysql/ \
 You can download PoPSQL at https://popsql.com/
 
-### Instructor
+## Instructor
 
 **Jason Zhang**
 
